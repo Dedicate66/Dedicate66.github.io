@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science (Management), The University of Queensland, Australia, *2023-2025*
+* B.S. in Information Engineering, Jilin University, China, *2018-2022*
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2023: **Software Engineer**
+  * CRRC CHANGCHUN RAILWAY VEHICLES CO., LTD.  
+  * Duties includes: 
+    * Spring Cloud Microservice Backend Develop (Java)
+    * Kingdee Fullstack Web Develop (Java)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2022: **Graduation Project**
+  * Jilin University
+  * Project Title: A Survey of Cyber-Physical Attacks and Detection Methods in Smart Distribution Systems based on deep learning
+  * Techniques: Deep Learning, Anomaly Detection, Auto-Encoder (AE), TensorFlow 
+  * Supervisor: Professor Juan Li
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**
+  * Solid programming and debugging skills: Python, Java, SQL, HTML, CSS, PHP, JavaScript
+  * Familiar with Algorithms and Data Structures: Graph, Stack, Heap, Search Tree, Huffman Coding, etc.
+  * Linux and  Containerisation techniques: Docker, Dockerfile, Docker Compose, Kubernetes, etc. (intermediate)
+  * RDD programming and Spark (intermediate)
+* **Big Data**
+  * Data Mining & Machine Learning: Classification, Clustering, Anomaly Detection, Associate Rule Mining, Text Mining, Linear Regression, etc.
+  * **Deep Learning:**
+    * Two Coursera **certificated** courses by Andrew Ng: Logistic Regression, Neural Network, Hyperparameter Tuning, Mini-batch Gradient Descent, Regularisation, Normalisation, Momentum, RMSprop, Adam, Learning rate decay, Batch Norm, Softmax Regression, TensorFlow, etc.
+    * Familiar with **Pytorch**, Basic Tensorflow experience
+  * Social Media Analytics: Community Structure and Detection in Networks, Link Prediction, Graph Representation Learning (INFS7450)
+* **Tools & Services**
+  * Version Control: Git
+  * Database: Navicat, DBeaver
+  * API and Message Queue: Postman, Web Services, Messaging Queue (MQ), SOAP API, REST API
+  * SSH: MobaXterm SSH Client
+*  **Languages**
+   *  Mandarin (native)
+   *  English (TOEFL 95: Reading 26, Listening 24, Speaking 23, Writing 22)
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Best New Employee Award 2022 — CRRC CHANGCHUN RAILWAY VEHICLES CO., LTD. 
+* The star of Events 2022 — CRRC CHANGCHUN RAILWAY VEHICLES CO., LTD. 
